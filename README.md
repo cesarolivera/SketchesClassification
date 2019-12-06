@@ -1,0 +1,2 @@
+# SketchesClassification
+El presente proyecto tiene por objetivo la clasificación de sketches o dibujos a mano alzada basándose en la similitud con figuras geométricas básicas (triángulo, cuadrado, rectángulo, circulo y cruz). Para tal fin, se ha empleado un conjunto de 320 datos distribuidos en 4 categorías: avión, reloj, ángel y hormiga. Luego de la experimentación bajo diversos clasificadores y distintos ambientes de entrenamiento de datos, se obtuvo un 78% de precisión como mejor resultado.
